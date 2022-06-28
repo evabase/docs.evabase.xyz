@@ -27,7 +27,7 @@ This is not an officially supported Google product. This project is currently ma
 
 ## Using the Docsy Example Project as a template
 
-A simple way to get started is to use this project as a template, which gives you a site project that is set up and ready to use. To do this: 
+A simple way to get started is to use this project as a template, which gives you a site project that is set up and ready to use. To do this:
 
 1. Click **Use this template**.
 
@@ -68,7 +68,7 @@ than [Docker Desktop](https://www.docker.com/products/docker-desktop) on
 Windows and Mac, and [Docker Compose](https://docs.docker.com/compose/install/)
 on Linux.
 
-1. Build the docker image 
+1. Build the docker image
 
    ```bash
    docker-compose build
@@ -82,7 +82,7 @@ on Linux.
 
    > NOTE: You can run both commands at once with `docker-compose up --build`.
 
-1. Verify that the service is working. 
+1. Verify that the service is working.
 
    Open your web browser and type `http://localhost:1313` in your navigation bar,
    This opens a local instance of the docsy-example homepage. You can now make
@@ -91,7 +91,7 @@ on Linux.
 
 ### Cleanup
 
-To stop Docker Compose, on your terminal window, press **Ctrl + C**. 
+To stop Docker Compose, on your terminal window, press **Ctrl + C**.
 
 To remove the produced images run:
 
@@ -108,7 +108,7 @@ As you run the website locally, you may run into the following error:
 ```
 ➜ hugo server
 
-INFO 2021/01/21 21:07:55 Using config file: 
+INFO 2021/01/21 21:07:55 Using config file:
 Building sites … INFO 2021/01/21 21:07:55 syncing static files to /
 Built in 288 ms
 Error: Error building site: TOCSS: failed to transform "scss/main.scss" (text/x-scss): resource "scss/scss/main.scss_9fadf33d895a46083cdd64396b57ef68" not found in file cache
@@ -132,7 +132,7 @@ See this [section](https://www.docsy.dev/docs/get-started/docsy-as-module/instal
 [alternate dashboard]: https://app.netlify.com/sites/goldydocs/deploys
 [deploys]: https://app.netlify.com/sites/docsy-example/deploys
 [Docsy user guide]: https://docsy.dev/docs
-[Docsy]: https://github.com/google/docsy
+[Docsy]: https://github.com/evabase/evabase
 [example.docsy.dev]: https://example.docsy.dev
 [Hugo theme module]: https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme
 [Netlify]: https://netlify.com
