@@ -1,7 +1,7 @@
 ---
 title: "提交任务"
 type: docs
-weight: 3
+weight: 40
 ---
 
 在 Evabase 中任意类型任务的提交都将按三个步骤处理：
