@@ -211,6 +211,10 @@ enable = false
   icon = "fa fa-envelope"
   desc = "Discuss development issues around the project"
 
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
 # hugo module configuration
 
 [module]
