@@ -2,9 +2,9 @@ baseURL = "/"
 title = "Evabase Documents"
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+# contentDir = "content/en"
+defaultContentLanguage = "cn"
+defaultContentLanguageInSubdir = true
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
 
@@ -70,6 +70,7 @@ id = "UA-00000000-0"
 title = "Evabase"
 description = "Evabase Document Center"
 languageName ="English"
+contentDir = "content/en"
 # Weight used for sorting.
 weight = 1
 [languages.cn]
@@ -186,7 +187,7 @@ enable = false
   desc = "evabase@gmail.com"
 [[params.links.user]]
   name ="Twitter"
-  url = "https://twitter/evabase"
+  url = "https://twitter.com/evabasexyz"
   icon = "fab fa-twitter"
   desc = "Follow us on Twitter to get the latest news!"
 # [[params.links.user]]
