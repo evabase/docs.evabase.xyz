@@ -184,7 +184,7 @@ enable = false
   name = "User mailing list"
   url = ""
   icon = "fa fa-envelope"
-  desc = "evabase@gmail.com"
+  desc = "hievabase@gmail.com"
 [[params.links.user]]
   name ="Twitter"
   url = "https://twitter.com/evabasexyz"
