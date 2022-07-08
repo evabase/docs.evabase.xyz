@@ -53,20 +53,20 @@ Evabase NFT 不适合市价或更高价格批量扫单，因为这比OpenSea官�
 ### 输入NFT链接 {#nfturl}
 
 如何确定NFT链接呢？这需要用户先在 [OpenSea](https://opensea.io/) 中浏览 NFT，打开希望挂单买入的 NFT 网页。
-然后，将 NFT 页面的网页地址复制出来。如喜欢无聊猿(https://opensea.io/collection/cryptopunks)，想试试运气来捡漏则可以在 Evabase 创建一个无聊猿低价单。
+然后，将 NFT 页面的网页地址复制出来。如喜欢Punks(https://opensea.io/collection/cryptopunks)，想试试运气来捡漏则可以在 Evabase 创建一个Punks低价单。
 
 ![NFT限价单](/img/nftorder02.png)
 
-➊ 只需将无聊猿在OpenSea中的网址 https://opensea.io/collection/cryptopunks 复制到输入框中。 ➋ 然后，点击`Load`按钮。稍等片刻，会在下方加载显示无聊猿 NFT 相关信息：
+➊ 只需将Punks在OpenSea中的网址 https://opensea.io/collection/cryptopunks 复制到输入框中。 ➋ 然后，点击`Load`按钮。稍等片刻，会在下方加载显示Punks NFT 相关信息：
 
 ![NFT限价单输入NFT链接](/img/nftorder03.png)
 
-➊ 是 无聊猿 NFT 集合的图片，来自 OpenSea 网站。
-➋ 是 无聊猿 NFT 集合名称，点击`[⤴︎]`可网页跳转到无聊猿 OpenSea 中。
+➊ 是 Punks NFT 集合的图片，来自 OpenSea 网站。
+➋ 是 Punks NFT 集合名称，点击`[⤴︎]`可网页跳转到Punks OpenSea 中。
 ➌ 如果在 OpenSea 中有显示 NFT 地板价，那么这里也同样显示地板价。`- ETH` 表示没有地板价。
 ➍ 是 NFT 在 OpenSea 中的 24 小时交易额。
 
-如果只希望买入特定的单个 NFT，则可以输入单个 NFT 的 OpenSea 网址。如喜欢 Token 编号为 6981 的无聊猿，
+如果只希望买入特定的单个 NFT，则可以输入单个 NFT 的 OpenSea 网址。如喜欢 Token 编号为 6981 的Punks，
 则复制 https://opensea.io/assets/ethereum/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/6981 网址到输入框中就行。
 
 ![NFT限价单输入NFT链接](/img/nftorder04.png)
