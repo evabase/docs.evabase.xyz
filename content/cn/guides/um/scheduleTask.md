@@ -17,7 +17,13 @@ Evabase 支持自定义任务，允许将多笔交易合并成一笔交易，并
 ## 场景 {#case}
 
 
-Evabase 当前版本只实现了 Call any contract - Execute控件、Require - 断言控件、Uniswap v3 Swap - Uniswap兑换控件，后续将陆续提供其他功能性控件，如：Compound 存款控件等等。利用丰富的控件，可以如同积木一样搭建更丰富的交互场景：
+Evabase 当前版本已实现了 
+
+1. Call any contract - 合约执行控件、
+2. Require - 逻辑断言控件
+3. Uniswap v3 Swap - Uniswap兑换控件
+
+后续将陆续提供其他功能性控件，如：Compound 存款控件等等。利用丰富的控件，可以如同积木一样搭建更丰富的交互场景：
 
 1. 定投：固定每周买入 200 USDT 的 BTC。
 2. 工资发放：固定每月一号发放 ETH 工资给员工。
