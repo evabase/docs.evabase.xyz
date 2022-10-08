@@ -1,7 +1,7 @@
 ---
 title: 'Uniswap v3 Swap'
 type: docs
-weight: 10
+weight: 300
 ---
 
 该控件与 Uniswap v3 的 swap 功能类似：  

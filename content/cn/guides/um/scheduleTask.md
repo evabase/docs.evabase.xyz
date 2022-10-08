@@ -59,9 +59,9 @@ Evabase 当前版本已实现了
 
 以下为现有控件的使用说明。
 
-[Call any contract - Execute 控件]({{< ref "../controllers/execute.md" >}})  
-[Require - 断言控件]({{< ref "../controllers/require.md" >}})  
-[Uniswap v3 Swap - Uniswap 兑换控件]({{< ref "../controllers/uniswapV3swap.md" >}})
+[Call any contract - Execute 控件]({{< ref "controllers/execute.md" >}})  
+[Require - 断言控件]({{< ref "controllers/require.md" >}})  
+[Uniswap v3 Swap - Uniswap 兑换控件]({{< ref "controllers/uniswapV3swap.md" >}})
 
 用户可以根据自己的需求，选择添加多个控件
 

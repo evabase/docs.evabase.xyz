@@ -1,7 +1,7 @@
 ---
 title: 'Require'
 type: docs
-weight: 10
+weight: 200
 ---
 
 在程序开发中，一般使用逻辑判断来执行不同分支语句，或检测逻辑执行结果是否符合预期。Evabase 支持在创建 Task 中使用 Require 积木来检测状态是否符合预期，或作为任务执行的检查条件之一。
