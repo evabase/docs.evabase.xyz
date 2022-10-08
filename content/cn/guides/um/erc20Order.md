@@ -1,5 +1,5 @@
 ---
-title: "创建ERC20限价单"
+title: '创建ERC20限价单'
 type: docs
 weight: 30
 ---
@@ -13,7 +13,7 @@ weight: 30
 在 Market 页面中点击 `Buy token at the specified price` 控件的 `Use` 按钮。
 ![ERC20限价单控件](/img/erc20order00.png)
 
-随后，进入 ERC20限价单 操作页面：
+随后，进入 ERC20 限价单 操作页面：
 
 ![ERC20限价单 操作页面](/img/erc20order02.png)
 
@@ -21,17 +21,17 @@ weight: 30
 
 在提交限价单前，需要您设置限价单相关信息，以确定您的下单意图。
 
-下面，将以 “用 1230 USDT价格将 1 ETH 兑换成 USDT”为例，说明操作过程。
-
+下面，将以 “用 1230 USDT 价格将 1 ETH 兑换成 USDT”为例，说明操作过程。
 
 {{< cardpane >}}
-  {{< card >}}
+{{< card >}}
 ![ERC20限价单选择资产与设置价格](/img/erc20order03.png)
-  {{< /card >}}
-  {{< card >}}
+{{< /card >}}
+{{< card >}}
 ![ERC20限价单选择资产与设置价格](/img/erc20order04.png)
-  {{< /card >}}
+{{< /card >}}
 {{< /cardpane >}}
+
 <!-- ➊ ➋ ➌ ➍ ➎ ➏ ➐ ➑ ➒ ➓ -->
 
 - ➊ Pay: 将被兑换出去的资产（也称卖出的或支付的资产），如 “ETH”。点击下拉按钮可从列表中[选择资产](#select)。
@@ -42,7 +42,6 @@ weight: 30
 - ➏ Receive：将被兑换到的资产（也称买入资产），如 “USDT”。 点击下拉按钮可从列表中[选择资产](#select) 。
 - ➐ 最少可兑换得到的资产数量。默认将根据价格自动计算显示，也可以手工输入，将会根据输入联动更新价格输入框。
 
-
 ### 选择资产 {#select}
 
 点击资产选择框，将弹出资产选择窗口。
@@ -51,7 +50,7 @@ weight: 30
 
 ![查询选择资产](/img/selectToken.png)
 
-## 预付Gas费与设置任务名称  {#setGasAndTaskName}
+## 预付 Gas 费与设置任务名称 {#setGasAndTaskName}
 
 确定限价单信息后，根据实际情况有可选输入项信息：
 
@@ -62,7 +61,7 @@ weight: 30
 
 ## 提交限价单 {#submit}
 
-点击`Submit`将提交限价单到网络中，更多细节请参见 [提交任务]({{< ref "submitTask.md" >}}) 文档。
+点击`Submit`将提交限价单到网络中，更多细节请参见 [创建、分享、查看任务]({{< ref "submitTask.md" >}}) 文档。
 
 ![提交限价单](/img/erc20order06.png)
 
